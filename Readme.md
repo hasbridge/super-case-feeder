@@ -1,6 +1,8 @@
 ## Overview
 This case feeder is designed for the Hornady Lock-n-Load AP progressive reloading press. It works with virtually any caliber that will fit down Lee case feeder tubes, from 380 ACP to 30-06. 
 
+![](https://i.imgur.com/493gIlT.png)
+
 ## License
 
 You are free to print and modify the files for personal, non-commercial use. Selling copies or printed parts is not authorized without explicit permission from the original author.
