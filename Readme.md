@@ -3,6 +3,8 @@ This case feeder is designed for the Hornady Lock-n-Load AP progressive reloadin
 
 ![](https://i.imgur.com/493gIlT.png)
 
+Demo of press in action: https://www.youtube.com/watch?v=Jn4G6Q33BeE
+
 ## License
 
 You are free to print and modify the files for personal, non-commercial use. Selling copies or printed parts is not authorized without explicit permission from the original author.
