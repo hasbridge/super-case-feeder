@@ -24,7 +24,7 @@ Most parts can be sourced from a local hardware store, and can all be easily sou
 - M4x15mm Screw (1)
 - M4 Lock Nut (1)
 - M3x50 Screw (2)
-- 1/4-20x6" Bolt (1)
+- 1/4-20 x 6" Bolt (1)
 - 1/4-20 Nut (1)
 - 1/4-20 x 3/4" Bolt (2)
 - 1/4" Fender Washer (2)
