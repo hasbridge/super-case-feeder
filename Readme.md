@@ -3,6 +3,8 @@ This case feeder is designed for the Hornady Lock-n-Load AP progressive reloadin
 
 ![](https://i.imgur.com/493gIlT.png)
 
+Demo of press in action: https://www.youtube.com/watch?v=Jn4G6Q33BeE
+
 ## License
 
 You are free to print and modify the files for personal, non-commercial use. Selling copies or printed parts is not authorized without explicit permission from the original author.
@@ -21,12 +23,11 @@ Most parts can be sourced from a local hardware store, and can all be easily sou
 - M4x25mm Screw (8)
 - M4x15mm Screw (1)
 - M4 Lock Nut (1)
-- 1/4"x6" Bolt (1)
-- 1/4" Nut (1)
-- 1/4" Washer (1)
-- 1/4"x3/4" Bolt (2)
-- 1/4" Fender Washer (2)
 - M3x50 Screw (2)
+- 1/4-20 x 6" Bolt (1)
+- 1/4-20 Nut (1)
+- 1/4-20 x 3/4" Bolt (2)
+- 1/4" Fender Washer (2)
 - 624 Bearing (1)
 - Hillman #6 Spring (1) (https://www.farmandfleet.com/products/512679-hillman-6-spring.html)
 - Hillman #9 Spring (1) (https://www.farmandfleet.com/products/512680-hillman-9-spring.html)
