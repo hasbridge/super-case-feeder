@@ -1,20 +1,17 @@
-## Overview
-This case feeder is designed for the Hornady Lock-n-Load AP progressive reloading press. It works with virtually any caliber that will fit down Lee case feeder tubes, from 380 ACP to 30-06. 
 
-![](https://i.imgur.com/493gIlT.png)
+## Super Case Feeder
+
+This case feeder is designed for the Hornady Lock-n-Load AP progressive reloading press. It works with virtually any caliber that will fit down Lee case feeder tubes, from 380 ACP to 30-06. 
 
 Demo of press in action: https://www.youtube.com/watch?v=Jn4G6Q33BeE
 
-## License
-
-You are free to print and modify the files for personal, non-commercial use. Selling copies or printed parts is not authorized without explicit permission from the original author.
+![Case Feeder Assembly](https://i.imgur.com/493gIlT.png)
 
 ## Features
 - Can handle any case length between 17mm and 73mm in length, and between 7 and 14mm in diameter
 - Case dropper with hinged doors to quickly change calibers, no need for different caliber inserts
 - Collator with 6 tubes holds over 100 cases of 9mm or 45 ACP
 - Lower slider is quickly removable for hand-feeding cases, and can be stored on the back of the case feeder assembly
-
 
 ## Bill of Materials
 
@@ -46,3 +43,7 @@ All files needed to print the standard configuration are in the **Base STL Files
 ## Assembly
 
 See the wiki page for assembly instructions at https://github.com/hasbridge/super-case-feeder/wiki/Assembly-Instructions
+
+## License
+
+You are free to print and modify the files for personal, non-commercial use. Selling copies or printed parts is not authorized without explicit permission from the original author.
