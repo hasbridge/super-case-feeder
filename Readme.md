@@ -8,7 +8,7 @@ Demo of press in action: https://www.youtube.com/watch?v=Jn4G6Q33BeE
 ![Case Feeder Assembly](https://i.imgur.com/493gIlT.png)
 
 ## Features
-- Can handle any case length between 17mm and 73mm in length, and between 7 and 14mm in diameter
+- Can handle any case length between 17mm and 63mm in length, and between 7 and 14mm in diameter
 - Case dropper with hinged doors to quickly change calibers, no need for different caliber inserts
 - Collator with 6 tubes holds over 100 cases of 9mm or 45 ACP
 - Lower slider is quickly removable for hand-feeding cases, and can be stored on the back of the case feeder assembly
