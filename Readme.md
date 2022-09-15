@@ -36,10 +36,13 @@ Most parts can be sourced from a local hardware store, and can all be easily sou
 
 ## Recommended Print Settings
 - PETG is recommended, but PLA should work as well
-- ~0.22 Layer height, with ~40% infill for strength
+- ~0.24 Layer height, with ~40%+ infill for strength
 - STL files are all rotated for correct printing orientation
 - Supports are not needed except for a small amount on the lower slider nose
 
+## Files To Print
+All files needed to print the standard configuration are in the **Base STL Files** folder. This includes everything needed to complete the case feeder. For custom configurations such as using with a motorized case collator, files are available in the **Mods** folder.
+
 ## Assembly
 
-See the wiki page for assembly instructions at https://github.com/hasbridge/universal-case-feeder/wiki/Assembly-Instructions
+See the wiki page for assembly instructions at https://github.com/hasbridge/super-case-feeder/wiki/Assembly-Instructions
